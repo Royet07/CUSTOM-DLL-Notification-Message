@@ -1,0 +1,8 @@
+
+For .Net Framework 4.0 VS2010
+
+---Custom Window Animation v1.0.0
+---Copyright @ 2022.
+---Created by: Royet Gesta Camay
+
+<<<--See Documentation for more  Info-->>>
